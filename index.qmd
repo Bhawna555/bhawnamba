@@ -6,13 +6,12 @@ format:
     page-layout: full
 ---
 
-{.hero style="background: url('https://source.unsplash.com/featured/?business,teamwork'); padding: 4rem; text-align: center; color: white;"}
+::: {.hero style="background: url('https://source.unsplash.com/featured/?business,teamwork'); padding: 4rem; text-align: center; color: white;"}
 # **Bhawna Shekhawat**
 ### Business Professional & Customer Service Specialist
+:::
 
 ![Profile Photo](images/profile.jpg){.img-fluid rounded-circle style="max-width: 150px; margin-top: 2rem; margin-bottom: 1rem;"}
-
----
 
 ## 📌 Professional Summary
 
@@ -23,5 +22,5 @@ Over 5 years of hands-on experience in customer service, hospitality, and market
 - 📧 shekhawatbhawna555@gmail.com  
 - 📍 Based in Canada | Open to Opportunities  
 
-[Connect on LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME){.btn .btn-outline-primary target="_blank"}
+[Connect on LinkedIn](https://www.linkedin.com/in/bhawna555){.btn .btn-outline-primary target="_blank"}  
 [Download Resume](files/Bhawna_Resume.pdf){.btn .btn-primary target="_blank"}
