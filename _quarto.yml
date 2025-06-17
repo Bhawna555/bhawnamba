@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+  title: "bhawna-portfolio"
+
+website:
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: resume.qmd
+        text: Resume
+      - href: projects.qmd
+        text: Projects
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
+
+
