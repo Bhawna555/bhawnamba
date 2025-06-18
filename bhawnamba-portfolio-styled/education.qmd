@@ -1,0 +1,13 @@
+---
+title: "Education"
+format: html
+---
+
+<div class="container mt-4">
+  <div class="row">
+    <div class="col-md-6">🎓 Master of Business Administration (in progress) – Canada</div>
+    <div class="col-md-6">📖 MA in English Literature – India</div>
+    <div class="col-md-6">📘 MA in Political Science – India</div>
+    <div class="col-md-6">🔬 Bachelor of Science – India</div>
+  </div>
+</div>

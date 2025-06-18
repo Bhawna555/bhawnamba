@@ -1,0 +1,28 @@
+---
+title: "Skills"
+format: html
+---
+
+<div class="container mt-4">
+  <div class="row">
+    <div class="col-md-6">
+      **Technical Skills**  
+      - Excel, SQL, Tableau, PowerPoint
+    </div>
+    <div class="col-md-6">
+      **Communication**  
+      - Verbal and Written  
+      - Public Speaking, Presentations
+    </div>
+    <div class="col-md-6">
+      **Management**  
+      - Time, Task, Team Leadership  
+      - Hospitality
+    </div>
+    <div class="col-md-6">
+      **Customer Service**  
+      - Cash handling, Problem solving  
+      - Customer support
+    </div>
+  </div>
+</div>

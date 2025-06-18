@@ -52,5 +52,23 @@
   },
   "experience.qmd": {
     "experience.html": "00118d86"
+  },
+  "bhawnamba-portfolio-styled/availability.qmd": {
+    "availability.html": "9d74ee36"
+  },
+  "bhawnamba-portfolio-styled/index.qmd": {
+    "index.html": "f403d0de"
+  },
+  "bhawnamba-portfolio-styled/experience.qmd": {
+    "experience.html": "772e2d6e"
+  },
+  "bhawnamba-portfolio-styled/certifications.qmd": {
+    "certifications.html": "4644ba9d"
+  },
+  "bhawnamba-portfolio-styled/education.qmd": {
+    "education.html": "bff6fbc1"
+  },
+  "bhawnamba-portfolio-styled/skills.qmd": {
+    "skills.html": "e492baea"
   }
 }

@@ -1,0 +1,23 @@
+---
+title: "Experience"
+format: html
+---
+
+<div class="container mt-5">
+  <div class="row">
+    <div class="col-md-6">
+      #### 🛒 Front-End Cashier  
+      **Real Canadian Superstore – Mission | Present**  
+      - Delivered personalized customer service  
+      - Accurately processed transactions  
+      - Assisted customers with queries  
+    </div>
+    <div class="col-md-6">
+      #### 🏦 Field Marketing Representative  
+      **President’s Choice Financial – Chilliwack | Apr 2024 – Sep 2026**  
+      - Promoted financial products  
+      - Tailored recommendations  
+      - Provided informed product knowledge
+    </div>
+  </div>
+</div>

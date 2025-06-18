@@ -1,0 +1,18 @@
+---
+title: "Availability"
+format: html
+---
+
+<div class="container mt-5">
+  ### Weekly Schedule
+
+  | Day       | Hours              | Status        |
+  |-----------|--------------------|----------------|
+  | Monday    | 7:00 AM – 10:00 PM | ✅ Available   |
+  | Tuesday   | 7:00 AM – 10:00 PM | ✅ Available   |
+  | Wednesday | Not Available      | ❌ Unavailable |
+  | Thursday  | 7:00 AM – 10:00 PM | ✅ Available   |
+  | Friday    | 7:00 AM – 10:00 PM | ✅ Available   |
+  | Saturday  | 7:00 AM – 10:00 PM | ✅ Available   |
+  | Sunday    | 7:00 AM – 10:00 PM | ✅ Available   |
+</div>

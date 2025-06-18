@@ -1,0 +1,29 @@
+---
+title: "Home"
+format: html
+page-layout: full
+---
+
+<div style="background: url('https://source.unsplash.com/featured/?business,teamwork'); padding: 4rem; text-align: center; color: white;">
+  <h1>Bhawna Shekhawat</h1>
+  <h4>Business Professional & Customer Service Specialist</h4>
+</div>
+
+<div class="container mt-5">
+  <div class="row align-items-center">
+    <div class="col-md-4 text-center">
+      <img src="images/profile.jpg" alt="Profile" class="img-fluid rounded-circle" style="max-width: 150px;">
+    </div>
+    <div class="col-md-8">
+      ### 📌 Professional Summary
+
+      Dedicated and adaptable professional pursuing an MBA at University Canada West, with a robust academic background in English Literature, Political Science, and Science. Over 5 years of diverse experience across customer service, marketing, hospitality, and financial services.
+
+      📧 shekhawatbhawna555@gmail.com  
+      📍 Based in Canada | Open to Opportunities  
+
+      [Connect on LinkedIn](https://www.linkedin.com/in/bhawna-shekhawat-a2a69b2a6){.btn .btn-outline-primary target="_blank"}  
+      [Download Resume](files/BHAWNA-SHEKHAWAT.pdf){.btn .btn-primary target="_blank"}
+    </div>
+  </div>
+</div>
