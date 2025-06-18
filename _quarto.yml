@@ -1,19 +1,15 @@
 project:
   type: website
-  output-dir: docs
 
 website:
-  title: "bhawna-portfolio"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - resume.qmd
-      - projects.qmd
-      - contact.qmd
+  title: "Bhawna Shekhawat"
+  navbar: false
+  page-footer: "© 2025 Bhawna Shekhawat. All rights reserved."
 
-
+format:
+  html:
+    theme: cosmo
+    css: styles.css
 
 
 

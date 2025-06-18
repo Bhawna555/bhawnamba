@@ -1,0 +1,219 @@
+[
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection",
+    "section": "",
+    "text": "As I expanded my single-page Quarto portfolio into a multi-page site, I realized the benefit of organizing professional content into distinct sections like About, Resume, and Projects. The LLM helped me brainstorm structure and wording.\n\n\nSplitting the content allowed me to personalize each section, especially the Resume and Project pages. I added visual styling and improved professionalism through buttons, spacing, and formatting.\n\n\n\nWhile the LLM provided scaffolding and examples, I customized all content based on my real experience. I cross-verified job descriptions and ensured clarity. I added APA citations if referencing statistics or external ideas.\nThis assignment helped me build not only a website but also a polished professional presentation."
+  },
+  {
+    "objectID": "reflection.html#what-worked-better",
+    "href": "reflection.html#what-worked-better",
+    "title": "Reflection",
+    "section": "",
+    "text": "Splitting the content allowed me to personalize each section, especially the Resume and Project pages. I added visual styling and improved professionalism through buttons, spacing, and formatting."
+  },
+  {
+    "objectID": "reflection.html#ensuring-authenticity",
+    "href": "reflection.html#ensuring-authenticity",
+    "title": "Reflection",
+    "section": "",
+    "text": "While the LLM provided scaffolding and examples, I customized all content based on my real experience. I cross-verified job descriptions and ensured clarity. I added APA citations if referencing statistics or external ideas.\nThis assignment helped me build not only a website but also a polished professional presentation."
+  },
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills",
+    "section": "",
+    "text": "Skills\n\nVerbal & Written Communication\n\nExcel, SQL, Tableau, PowerPoint\n\nTime & Task Management\n\nCash Handling & Customer Service\n\nStrategic Thinking & Problem Solving\n\nTeam Leadership & Hospitality Management"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Designed a multi-agent chatbot for IKEA using large language models (LLMs). Led delivery agent testing, created human-based ground truth responses, and evaluated chatbot accuracy using a real-world interface.\n\nTools: ChatGPT, Gemini, CSV dataset, Quarto\n\n\n\n\n\nFormulated product strategy for a Gen-Z gig platform. Delivered go-to-market roadmap, LLM-powered features, competitive benchmarking, and financial projections.\n\nTools: AI case studies, market data, PowerPoint, Quarto\n\n\n\n\n\nAnalyzed logistics expansion in Morocco using SWOT, PESTEL, and Winning Playground frameworks. Assessed CEVA, Bolloré, and Timar as competitors.\n\nRole: Competitive Landscape Lead | Tools: APA7, Word, Excel"
+  },
+  {
+    "objectID": "projects.html#ikea-llm-chatbot-busi-654",
+    "href": "projects.html#ikea-llm-chatbot-busi-654",
+    "title": "Projects",
+    "section": "",
+    "text": "Designed a multi-agent chatbot for IKEA using large language models (LLMs). Led delivery agent testing, created human-based ground truth responses, and evaluated chatbot accuracy using a real-world interface.\n\nTools: ChatGPT, Gemini, CSV dataset, Quarto"
+  },
+  {
+    "objectID": "projects.html#gigsup-strategic-recommendation-report",
+    "href": "projects.html#gigsup-strategic-recommendation-report",
+    "title": "Projects",
+    "section": "",
+    "text": "Formulated product strategy for a Gen-Z gig platform. Delivered go-to-market roadmap, LLM-powered features, competitive benchmarking, and financial projections.\n\nTools: AI case studies, market data, PowerPoint, Quarto"
+  },
+  {
+    "objectID": "projects.html#eas-international-strategic-report",
+    "href": "projects.html#eas-international-strategic-report",
+    "title": "Projects",
+    "section": "",
+    "text": "Analyzed logistics expansion in Morocco using SWOT, PESTEL, and Winning Playground frameworks. Assessed CEVA, Bolloré, and Timar as competitors.\n\nRole: Competitive Landscape Lead | Tools: APA7, Word, Excel"
+  },
+  {
+    "objectID": "bhawnamba-portfolio-styled/education.html",
+    "href": "bhawnamba-portfolio-styled/education.html",
+    "title": "Education",
+    "section": "",
+    "text": "&lt;div class=\"col-md-6\"&gt;🎓 Master of Business Administration (in progress) – Canada&lt;/div&gt;\n&lt;div class=\"col-md-6\"&gt;📖 MA in English Literature – India&lt;/div&gt;\n&lt;div class=\"col-md-6\"&gt;📘 MA in Political Science – India&lt;/div&gt;\n&lt;div class=\"col-md-6\"&gt;🔬 Bachelor of Science – India&lt;/div&gt;"
+  },
+  {
+    "objectID": "bhawnamba-portfolio-styled/experience.html",
+    "href": "bhawnamba-portfolio-styled/experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "&lt;div class=\"col-md-6\"&gt;\n  #### 🛒 Front-End Cashier  \n  **Real Canadian Superstore – Mission | Present**  \n  - Delivered personalized customer service  \n  - Accurately processed transactions  \n  - Assisted customers with queries  \n&lt;/div&gt;\n&lt;div class=\"col-md-6\"&gt;\n  #### 🏦 Field Marketing Representative  \n  **President’s Choice Financial – Chilliwack | Apr 2024 – Sep 2026**  \n  - Promoted financial products  \n  - Tailored recommendations  \n  - Provided informed product knowledge\n&lt;/div&gt;"
+  },
+  {
+    "objectID": "bhawnamba-portfolio-styled/availability.html",
+    "href": "bhawnamba-portfolio-styled/availability.html",
+    "title": "Availability",
+    "section": "",
+    "text": "### Weekly Schedule\n\n\n\nDay\nHours\nStatus\n\n\n\n\nMonday\n7:00 AM – 10:00 PM\n✅ Available\n\n\nTuesday\n7:00 AM – 10:00 PM\n✅ Available\n\n\nWednesday\nNot Available\n❌ Unavailable\n\n\nThursday\n7:00 AM – 10:00 PM\n✅ Available\n\n\nFriday\n7:00 AM – 10:00 PM\n✅ Available\n\n\nSaturday\n7:00 AM – 10:00 PM\n✅ Available\n\n\nSunday\n7:00 AM – 10:00 PM\n✅ Available"
+  },
+  {
+    "objectID": "bhawnamba-portfolio/education.html",
+    "href": "bhawnamba-portfolio/education.html",
+    "title": "Education",
+    "section": "",
+    "text": "Education\nEducational background."
+  },
+  {
+    "objectID": "bhawnamba-portfolio/experience.html",
+    "href": "bhawnamba-portfolio/experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Experience\nDetails about work history."
+  },
+  {
+    "objectID": "bhawnamba-portfolio/availability.html",
+    "href": "bhawnamba-portfolio/availability.html",
+    "title": "Availability",
+    "section": "",
+    "text": "Availability\nSchedule and availability."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "📬 Contact Me\nEmail: shekhawatbhawna555@gmail.com\nLinkedIn: Visit my profile\nLocation: British Columbia, Canada\nI’m currently open to opportunities in customer experience, hospitality, and strategy. Feel free to reach out by email or LinkedIn."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Real Canadian Superstore – Mission (Present)\n- Delivered high-quality customer service and retained clients\n- Processed payments, stocked shelves, trained new hires\n- Maintained a clean and safe environment\n\n\n\nPresident’s Choice Financial – Chilliwack/Abbotsford\nApril 2024 – September 2026\n- Promoted financial products through direct engagement\n- Advised customers on best-fit options\n- Tracked performance metrics and improved satisfaction\n\n\n\n\n\n\nCustomer Service Training – PC Financial\n\nAI in Business – UCW\n\nStrategic Management Capstone – MGMT 661"
+  },
+  {
+    "objectID": "resume.html#work-experience",
+    "href": "resume.html#work-experience",
+    "title": "Resume",
+    "section": "",
+    "text": "Real Canadian Superstore – Mission (Present)\n- Delivered high-quality customer service and retained clients\n- Processed payments, stocked shelves, trained new hires\n- Maintained a clean and safe environment\n\n\n\nPresident’s Choice Financial – Chilliwack/Abbotsford\nApril 2024 – September 2026\n- Promoted financial products through direct engagement\n- Advised customers on best-fit options\n- Tracked performance metrics and improved satisfaction"
+  },
+  {
+    "objectID": "resume.html#certifications",
+    "href": "resume.html#certifications",
+    "title": "Resume",
+    "section": "",
+    "text": "Customer Service Training – PC Financial\n\nAI in Business – UCW\n\nStrategic Management Capstone – MGMT 661"
+  },
+  {
+    "objectID": "bhawnamba-portfolio/index.html",
+    "href": "bhawnamba-portfolio/index.html",
+    "title": "Bhawna Shekhawat",
+    "section": "",
+    "text": "Bhawna Shekhawat\nWelcome to my portfolio website."
+  },
+  {
+    "objectID": "bhawnamba-portfolio/certifications.html",
+    "href": "bhawnamba-portfolio/certifications.html",
+    "title": "Certifications",
+    "section": "",
+    "text": "Certifications\nCertificates and achievements."
+  },
+  {
+    "objectID": "bhawnamba-portfolio/skills.html",
+    "href": "bhawnamba-portfolio/skills.html",
+    "title": "Skills",
+    "section": "",
+    "text": "Skills\nKey skills and competencies."
+  },
+  {
+    "objectID": "bhawnamba-portfolio-styled/index.html",
+    "href": "bhawnamba-portfolio-styled/index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Bhawna Shekhawat\n\n\nBusiness Professional & Customer Service Specialist\n\n\n\n\n&lt;div class=\"row\"&gt;\n  &lt;div class=\"col-md-4 text-center\"&gt;\n    &lt;img src=\"images/profile.jpg\" alt=\"Profile\" class=\"img-fluid rounded shadow\" style=\"max-width: 100%; border-radius: 10px;\"&gt;\n  &lt;/div&gt;\n  &lt;div class=\"col-md-8\"&gt;\n    ### 📌 Professional Summary\n\n    Dedicated and adaptable professional pursuing an MBA at University Canada West, with a robust academic background in English Literature, Political Science, and Science.\n\n    Over 5 years of diverse experience across customer service, marketing, hospitality, and financial services.\n\n    Known for excellent communication, task management, and problem-solving abilities. Seeking opportunities to leverage my diverse background in a collaborative professional environment.\n  &lt;/div&gt;\n&lt;/div&gt;\n\n\n📧 shekhawatbhawna555@gmail.com &nbsp;&nbsp;&nbsp;  \n📍 Based in Canada | Open to Opportunities\n\n&lt;div class=\"mt-3\"&gt;\n  [Connect on LinkedIn](https://www.linkedin.com/in/bhawna-shekhawat-a2a69b2a6){.btn .btn-outline-primary target=\"_blank\"}  \n  [Download Resume](files/BHAWNA-SHEKHAWAT.pdf){.btn .btn-primary target=\"_blank\"}\n&lt;/div&gt;\n\n\n&lt;div class=\"col-md-4 text-center\"&gt;\n  &lt;img src=\"images/profile.jpg\" alt=\"Profile\" class=\"img-fluid rounded-circle\" style=\"max-width: 150px;\"&gt;\n&lt;/div&gt;\n&lt;div class=\"col-md-8\"&gt;\n  ### 📌 Professional Summary\n\n  Dedicated and adaptable professional pursuing an MBA at University Canada West, with a robust academic background in English Literature, Political Science, and Science. Over 5 years of diverse experience across customer service, marketing, hospitality, and financial services.\n\n  📧 shekhawatbhawna555@gmail.com  \n  📍 Based in Canada | Open to Opportunities  \n\n  [Connect on LinkedIn](https://www.linkedin.com/in/bhawna-shekhawat-a2a69b2a6){.btn .btn-outline-primary target=\"_blank\"}  \n  [Download Resume](files/BHAWNA-SHEKHAWAT.pdf){.btn .btn-primary target=\"_blank\"}\n&lt;/div&gt;"
+  },
+  {
+    "objectID": "bhawnamba-portfolio-styled/certifications.html",
+    "href": "bhawnamba-portfolio-styled/certifications.html",
+    "title": "Certifications",
+    "section": "",
+    "text": "&lt;div class=\"col-md-6\"&gt;✅ Serving It Right – Canada (2023)&lt;/div&gt;\n&lt;div class=\"col-md-6\"&gt;✅ Microsoft Excel Advanced – Microsoft (2022)&lt;/div&gt;\n&lt;div class=\"col-md-6\"&gt;✅ Business Analytics – IBM (2021)&lt;/div&gt;\n&lt;div class=\"col-md-6\"&gt;✅ Customer Service Excellence – Service Institute (2022)&lt;/div&gt;"
+  },
+  {
+    "objectID": "bhawnamba-portfolio-styled/skills.html",
+    "href": "bhawnamba-portfolio-styled/skills.html",
+    "title": "Skills",
+    "section": "",
+    "text": "&lt;div class=\"col-md-6\"&gt;\n  **Technical Skills**  \n  - Excel, SQL, Tableau, PowerPoint\n&lt;/div&gt;\n&lt;div class=\"col-md-6\"&gt;\n  **Communication**  \n  - Verbal and Written  \n  - Public Speaking, Presentations\n&lt;/div&gt;\n&lt;div class=\"col-md-6\"&gt;\n  **Management**  \n  - Time, Task, Team Leadership  \n  - Hospitality\n&lt;/div&gt;\n&lt;div class=\"col-md-6\"&gt;\n  **Customer Service**  \n  - Cash handling, Problem solving  \n  - Customer support\n&lt;/div&gt;"
+  },
+  {
+    "objectID": "index.html#work-experience",
+    "href": "index.html#work-experience",
+    "title": "Home",
+    "section": "🧳 Work Experience",
+    "text": "🧳 Work Experience\n\n\n🛒 Front-End Cashier\nReal Canadian Superstore – Mission | Present\n- Delivered personalized customer service, increasing satisfaction and retention.\n- Accurately processed transactions and maintained an organized checkout area.\n- Assisted customers with product queries and demonstrated features.\n- Adhered to safety and cleanliness protocols to ensure a welcoming environment.\n\n\n🧾 Field Marketing Representative\nPresident’s Choice Financial – Chilliwack/Abbotsford | April 2024 – September 2026\n- Promoted financial products to a wide customer base through proactive engagement.\n- Tailored recommendations to individual needs using strong interpersonal skills.\n- Provided informed product knowledge to enhance trust and satisfaction."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Home",
+    "section": "📞 Contact",
+    "text": "📞 Contact\n\n\nEmail\nshekhawatbhawna555@gmail.com\nLocation\nCanada\nI am currently open to new opportunities. Feel free to reach out via email or LinkedIn.\n\n\n\n\nLinkedIn Profile\nDownload Resume\n\n\n\n© 2025 Bhawna Shekhawat. All rights reserved."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "🎓 Education\nMBA, University Canada West – 2025\nFocus: Strategic Management, AI in Business, Marketing Analytics\nBachelor’s in English Literature, University of Rajasthan\nMinors: Political Science and Economics\n\n\n\n💡 Skills & Strengths\n\nStrategic Thinking & Market Research\n\nCustomer Experience Management\n\nAI Tools & Chatbot Design (LLMs, Quarto)\n\nCommunication, Public Speaking & Training\n\nMS Office, Excel Dashboards, Canva\n\n\n\n\n🏆 Achievements\n\nLed chatbot development for IKEA using LLMs (BUSI 654)\nCreated portfolio and strategy reports using Quarto & GitHub\nConsistently praised for leadership and professional conduct"
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
+    "section": "",
+    "text": "Education\n\n🎓 Master of Business Administration (in progress) – University Canada West\n\n📖 MA in English Literature – India\n\n🧠 MA in Political Science – India\n\n🔬 Bachelor of Science – India"
+  },
+  {
+    "objectID": "appendix.html",
+    "href": "appendix.html",
+    "title": "Appendix – LLM Output and Revisions",
+    "section": "",
+    "text": "LLM Output: &gt; Bhawna Shekhawat — Business Professional & Customer Service Specialist\nMy Revisions: - Added personal branding statement - Refined summary with specific degree and location\n\n\n\n\nLLM Output: - Generic role summaries\nMy Revisions: - Customized descriptions to reflect tasks I actually performed - Removed unrelated AI suggestions"
+  },
+  {
+    "objectID": "appendix.html#prompt-create-a-homepage-for-my-quarto-portfolio",
+    "href": "appendix.html#prompt-create-a-homepage-for-my-quarto-portfolio",
+    "title": "Appendix – LLM Output and Revisions",
+    "section": "",
+    "text": "LLM Output: &gt; Bhawna Shekhawat — Business Professional & Customer Service Specialist\nMy Revisions: - Added personal branding statement - Refined summary with specific degree and location"
+  },
+  {
+    "objectID": "appendix.html#prompt-make-a-resume-section-using-real-roles",
+    "href": "appendix.html#prompt-make-a-resume-section-using-real-roles",
+    "title": "Appendix – LLM Output and Revisions",
+    "section": "",
+    "text": "LLM Output: - Generic role summaries\nMy Revisions: - Customized descriptions to reflect tasks I actually performed - Removed unrelated AI suggestions"
+  }
+]
