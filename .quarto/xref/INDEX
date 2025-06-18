@@ -19,5 +19,17 @@
   },
   "reflection.md": {
     "reflection.html": "4c2f9de6"
+  },
+  "availability.qmd": {
+    "availability.html": "86a340cf"
+  },
+  "certifications.qmd": {
+    "certifications.html": "895a989b"
+  },
+  "education.qmd": {
+    "education.html": "b7c6fe27"
+  },
+  "skills.qmd": {
+    "skills.html": "4ed918e3"
   }
 }
