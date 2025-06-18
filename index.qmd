@@ -1,5 +1,7 @@
 ::: {.hero}
-# Bhawna Shekhawat  
+![Hero Image](images/bg.jpg)
+
+# Bhawna Shekhawat
 **Business Professional & Customer Service Specialist**
 :::
 
@@ -10,11 +12,13 @@
 ::: {.right}
 ### 📌 Professional Summary
 
-Motivated and adaptable professional with proven experience in customer service, retail operations, and front desk management. Currently pursuing an MBA in Canada with a strong focus on strategy and leadership.
+Dedicated and adaptable professional pursuing an MBA...
 
 📧 shekhawatbhawna555@gmail.com  
-📍 Canada  
-[Download Resume](files/BHAWNA-SHEKHAWAT.pdf) | [LinkedIn](https://linkedin.com/in/YOURPROFILE)
+📍 Based in Canada | Open to Opportunities  
+
+[Connect on LinkedIn](https://linkedin.com/in/your-link)  
+[Download Resume](files/BHAWNA-SHEKHAWAT.pdf)
 :::
 :::
 
@@ -24,15 +28,12 @@ Motivated and adaptable professional with proven experience in customer service,
 ::: {.card}
 **Front-End Cashier**  
 Real Canadian Superstore – Mission | Present  
-- Provided prompt and courteous customer service  
-- Trained junior staff and managed till operations
+- Delivered personalized customer service...  
 :::
-
 ::: {.card}
-**Field Marketing Rep**  
-President’s Choice Financial – Chilliwack  
-- Promoted financial services to customers in-store  
-- Surpassed weekly KPIs through engaging communication  
+**Field Marketing Representative**  
+President’s Choice Financial – Chilliwack | Apr 2024 – Sep 2026  
+- Promoted financial products to a wide base...  
 :::
 :::
 
@@ -40,4 +41,5 @@ President’s Choice Financial – Chilliwack
 
 📧 shekhawatbhawna555@gmail.com  
 📍 Canada  
-[LinkedIn Profile](https://linkedin.com/in/YOURPROFILE) | [Download Resume](files/BHAWNA-SHEKHAWAT.pdf)
+
+[LinkedIn Profile](https://linkedin.com/in/your-link) | [Download Resume](files/BHAWNA-SHEKHAWAT.pdf)
