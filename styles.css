@@ -9,18 +9,20 @@
   }
   
   .summary {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
-    margin-top: 2rem;
-  }
-  
-  .summary .left img {
-    border-radius: 12px;
-    width: 160px;
-    box-shadow: 0 0 8px rgba(0,0,0,0.2);
-  }
-  
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+  margin-bottom: 2rem;
+}
+
+.summary .left img {
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.15);
+}
+
   .summary .right {
     flex: 1;
     background-color: #f8f9fa;
