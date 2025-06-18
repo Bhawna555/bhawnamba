@@ -1,45 +1,44 @@
 .hero {
-    background: url('images/bg.jpg') center/cover no-repeat;
-    padding: 100px 20px;
-    text-align: center;
-    color: white;
-    font-size: 2rem;
-    font-weight: bold;
-    border-radius: 12px;
-  }
-  
-  .summary {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
-    margin-top: 2rem;
-  }
-  
-  .summary .left img {
-    border-radius: 12px;
-    width: 160px;
-    box-shadow: 0 0 8px rgba(0,0,0,0.2);
-  }
-  
-  .summary .right {
-    flex: 1;
-    background-color: #f8f9fa;
-    padding: 1rem;
-    border-radius: 10px;
-  }
-  
-  .card-grid {
-    display: flex;
-    gap: 1rem;
-    flex-wrap: wrap;
-    margin-top: 1rem;
-  }
-  
-  .card {
-    background: white;
-    padding: 1rem;
-    border-radius: 10px;
-    box-shadow: 0 0 8px rgba(0,0,0,0.1);
-    flex: 1 1 45%;
-  }
-  
+  background: url('images/bg.jpg') center/cover no-repeat;
+  padding: 100px 20px;
+  color: white;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: bold;
+  border-radius: 12px;
+  margin-bottom: 2rem;
+}
+
+.summary {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.summary .left img {
+  border-radius: 10px;
+  width: 160px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+.summary .right {
+  flex: 1;
+  background: #f8f9fa;
+  padding: 1rem;
+  border-radius: 10px;
+}
+
+.card-grid {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.card {
+  flex: 1 1 45%;
+  background: white;
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.1);
+  margin-bottom: 1rem;
+}
