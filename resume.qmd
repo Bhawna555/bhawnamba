@@ -1,0 +1,29 @@
+---
+title: "Resume"
+format: html
+---
+
+# 📄 Resume
+
+## 💼 Work Experience
+
+### 🛒 Front-End Cashier  
+**Real Canadian Superstore – Mission** (Present)  
+- Delivered high-quality customer service and retained clients  
+- Processed payments, stocked shelves, trained new hires  
+- Maintained a clean and safe environment
+
+### 💳 Field Marketing Representative  
+**President’s Choice Financial – Chilliwack/Abbotsford**  
+April 2024 – September 2026  
+- Promoted financial products through direct engagement  
+- Advised customers on best-fit options  
+- Tracked performance metrics and improved satisfaction
+
+---
+
+## 🧠 Certifications
+
+- **Customer Service Training** – PC Financial  
+- **AI in Business** – UCW  
+- **Strategic Management Capstone** – MGMT 661

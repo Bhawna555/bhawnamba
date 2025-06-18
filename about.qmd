@@ -1,0 +1,30 @@
+---
+title: "About Me"
+format: html
+---
+
+# 🎓 Education
+
+**MBA**, University Canada West – 2025  
+Focus: Strategic Management, AI in Business, Marketing Analytics
+
+**Bachelor’s in English Literature**, University of Rajasthan  
+Minors: Political Science and Economics
+
+---
+
+# 💡 Skills & Strengths
+
+- Strategic Thinking & Market Research  
+- Customer Experience Management  
+- AI Tools & Chatbot Design (LLMs, Quarto)  
+- Communication, Public Speaking & Training  
+- MS Office, Excel Dashboards, Canva
+
+---
+
+# 🏆 Achievements
+
+- Led chatbot development for IKEA using LLMs (BUSI 654)
+- Created portfolio and strategy reports using Quarto & GitHub
+- Consistently praised for leadership and professional conduct

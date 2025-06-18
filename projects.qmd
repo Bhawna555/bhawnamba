@@ -1,0 +1,28 @@
+---
+title: "Projects"
+format: html
+---
+
+# 🧪 Projects & Case Studies
+
+## 🛍️ IKEA LLM Chatbot (BUSI 654)
+
+Designed a multi-agent chatbot for IKEA using large language models (LLMs). Led delivery agent testing, created human-based ground truth responses, and evaluated chatbot accuracy using a real-world interface.
+
+> Tools: ChatGPT, Gemini, CSV dataset, Quarto
+
+---
+
+## 📱 Gigsup Strategic Recommendation Report
+
+Formulated product strategy for a Gen-Z gig platform. Delivered go-to-market roadmap, LLM-powered features, competitive benchmarking, and financial projections.
+
+> Tools: AI case studies, market data, PowerPoint, Quarto
+
+---
+
+## 🌍 EAS International Strategic Report
+
+Analyzed logistics expansion in Morocco using SWOT, PESTEL, and Winning Playground frameworks. Assessed CEVA, Bolloré, and Timar as competitors.
+
+> Role: Competitive Landscape Lead | Tools: APA7, Word, Excel

@@ -1,0 +1,13 @@
+---
+title: "Contact"
+format: html
+---
+
+# 📬 Contact Me
+
+**Email:** shekhawatbhawna555@gmail.com  
+**LinkedIn:** [Visit my profile](#)  
+**Location:** British Columbia, Canada
+
+I’m currently open to opportunities in customer experience, hospitality, and strategy.
+Feel free to reach out by email or LinkedIn.
