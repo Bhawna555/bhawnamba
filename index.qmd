@@ -1,91 +1,43 @@
----
-title: "Home"
-format:
-  html:
-    toc: false
-    page-layout: full
-    css: styles.css
----
+::: {.hero}
+# Bhawna Shekhawat  
+**Business Professional & Customer Service Specialist**
+:::
 
-<div class="hero" style="background: url('https://source.unsplash.com/featured/?business,teamwork'); padding: 4rem; text-align: center; color: white;">
-# **Bhawna Shekhawat**
-### Business Professional & Customer Service Specialist
-</div>
-
-<div class="container">
-<div class="row">
-<div class="col-md-4 text-center">
-<img src="images/profile.jpg" alt="Profile Photo" class="img-fluid rounded-circle" style="max-width: 150px; margin-bottom: 1rem;" />
-</div>
-
-<div class="col-md-8">
+::: {.summary}
+::: {.left}
+![Profile](images/profile.jpg)
+:::
+::: {.right}
 ### 📌 Professional Summary
 
-Dedicated and adaptable professional pursuing an MBA at University Canada West, with a robust academic background in English Literature, Political Science, and Science.
-
-Over 5 years of diverse experience across customer service, marketing, hospitality, and financial services.
-
-Known for excellent communication, task management, and problem-solving abilities. Seeking opportunities to leverage my diverse background in a collaborative professional environment.
+Motivated and adaptable professional with proven experience in customer service, retail operations, and front desk management. Currently pursuing an MBA in Canada with a strong focus on strategy and leadership.
 
 📧 shekhawatbhawna555@gmail.com  
-📍 Based in Canada | Open to Opportunities  
+📍 Canada  
+[Download Resume](files/BHAWNA-SHEKHAWAT.pdf) | [LinkedIn](https://linkedin.com/in/YOURPROFILE)
+:::
+:::
 
-[Connect on LinkedIn](https://www.linkedin.com/in/bhawna555){.btn .btn-outline-primary target="_blank"}  
-[Download Resume](files/Bhawna_Resume.pdf){.btn .btn-primary target="_blank"}
-</div>
-</div>
-</div>
+## 💼 Work Experience
 
----
+::: {.card-grid}
+::: {.card}
+**Front-End Cashier**  
+Real Canadian Superstore – Mission | Present  
+- Provided prompt and courteous customer service  
+- Trained junior staff and managed till operations
+:::
 
-## 🧳 Work Experience
-
-<div class="row">
-<div class="col-md-6">
-
-#### 🛒 Front-End Cashier  
-**Real Canadian Superstore – Mission | Present**  
-- Delivered personalized customer service, increasing satisfaction and retention.  
-- Accurately processed transactions and maintained an organized checkout area.  
-- Assisted customers with product queries and demonstrated features.  
-- Adhered to safety and cleanliness protocols to ensure a welcoming environment.  
-
-</div>
-<div class="col-md-6">
-
-#### 🧾 Field Marketing Representative  
-**President’s Choice Financial – Chilliwack/Abbotsford | April 2024 – September 2026**  
-- Promoted financial products to a wide customer base through proactive engagement.  
-- Tailored recommendations to individual needs using strong interpersonal skills.  
-- Provided informed product knowledge to enhance trust and satisfaction.  
-
-</div>
-</div>
-
----
+::: {.card}
+**Field Marketing Rep**  
+President’s Choice Financial – Chilliwack  
+- Promoted financial services to customers in-store  
+- Surpassed weekly KPIs through engaging communication  
+:::
+:::
 
 ## 📞 Contact
 
-<div class="row">
-<div class="col-md-6">
-
-**Email**  
-shekhawatbhawna555@gmail.com  
-
-**Location**  
-Canada  
-
-I am currently open to new opportunities. Feel free to reach out via email or LinkedIn.
-
-</div>
-<div class="col-md-6 text-center">
-<img src="https://cdn-icons-png.flaticon.com/512/34/34627.png" alt="Wallet" width="200" />  
-<br>  
-[LinkedIn Profile](https://www.linkedin.com/in/bhawna555){.btn .btn-outline-primary target="_blank"}  
-[Download Resume](files/Bhawna_Resume.pdf){.btn .btn-primary target="_blank"}  
-</div>
-</div>
-
----
-
-© 2025 Bhawna Shekhawat. All rights reserved.
+📧 shekhawatbhawna555@gmail.com  
+📍 Canada  
+[LinkedIn Profile](https://linkedin.com/in/YOURPROFILE) | [Download Resume](files/BHAWNA-SHEKHAWAT.pdf)
